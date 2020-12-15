@@ -1,0 +1,354 @@
+ul a li,
+.fa-chevron-down {
+    display: inline;
+    color: black;
+    text-decoration: none;
+}
+
+.fa-chevron-down {
+    font-size: 9px;
+}
+
+img,
+.lang,
+.search {
+    display: inline-block;
+}
+
+.head {
+    display: flex;
+    justify-content:space-around;
+}
+
+a{
+    text-decoration: none;
+}
+
+.fa-map-marker-alt {
+    color: red;
+}
+
+.lang,
+.search {
+    font-size: 15px;
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+}
+
+a {
+    color: black;
+}
+
+.order {
+    background-color: #FFBC0D;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    display: inline-block;
+    border: none;
+    margin-left: -200px;
+    margin-top: 5px;
+}
+
+.toporder {
+    width: fit-content;
+}
+
+.search a li {
+    margin-left: 30px;
+}
+
+
+.fa-search {
+    font-size: 15px;
+}
+
+.mac {
+    width: 88px;
+    height: 88px;
+}
+
+.sign,
+.career {
+    margin-left: 25px;
+}
+
+.lang ul {
+    margin-left: -137px;
+}
+
+.menu {
+    font-size: 19px;
+    margin-top: -50px;
+}
+.food {
+    display: flex;
+    justify-content:center;
+    width: 1200px;
+}
+
+.food li {
+    margin-left: 25px;
+}
+
+.fff {
+    font-size: 15px;
+}
+
+.head {
+    border-bottom:3px solid rgb(238, 238, 232);
+}
+
+.fa-map-marker-alt {
+    margin-left: 30px;
+}
+
+.top {
+    width: 300px;
+}
+
+.holiday {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.from {
+    font-size: 50px;
+}
+
+.burger {
+    width: 650px;
+    height: 300px;
+}
+
+.sup {
+    width: 400px;
+    margin: auto 0;
+}
+
+.bigburger {
+    display: flex;
+    justify-content: center;
+}
+
+.at {
+    font-size: 11px;
+}
+
+.app {
+    border: 1px solid #FFBC0D;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #ffbc0d;
+}
+
+.bigapp {
+    margin-top: 70px;
+
+}
+
+.burger2 {
+    width: 650px;
+    height: 300px;
+}
+
+.burger3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.two2 {
+    width: 650px;
+    height: 300px;
+}
+
+.mobile {
+    width: 335px;
+    height: 225px;
+}
+
+.pay {
+    font-size: 30px;
+    width: 330px;
+}
+
+.pick {
+    width: 330px;
+}
+
+.mcd {
+    width: 330px;
+    font-size: 11px;
+}
+
+.pay,
+.pick,
+.mcd {
+    margin-left: 40px;
+}
+
+.use {
+    padding: 10px;
+    background-color: #FFBC0D;
+    margin-left : 40px;
+    border-radius: 5px;
+    border: 1px solid #FFBC0D;
+}
+
+.biguse {
+    margin-top: 40px;
+}
+
+.first {
+    height: 700px;
+}
+
+.three {
+    display: flex;
+    justify-content: space-around;
+}
+
+.use3 {
+    padding: 10px 40px;
+    background-color: #FFBC0D;
+    margin-left : 40px;
+    border-radius: 5px;
+    border: 1px solid #FFBC0D;
+}
+
+.biguse3 {
+    margin-top: 40px;
+}
+
+.verybig {
+    display: flex;
+    justify-content: space-around;
+}
+
+.bigone,
+.bigtwo,
+.bigthree,
+.bigfour,
+.bigfive {
+    display: flex;
+    flex-direction: column;
+}
+
+.bigone a,
+.bigtwo a,
+.bigthree a,
+.bigfour a,
+.bigfive a {
+    margin-top: 10px;
+}
+
+.fa-twitter,
+.fa-youtube{
+font-size: 16px;
+border: 1px solid black;
+padding: 5px;
+border-radius: 50%;
+margin-left: 20px;
+margin-top: 30px;
+}
+
+.fa-instagram,
+.fa-spotify,
+.fa-facebook-f,
+.fa-tumblr {
+    font-size: 16px;
+    border: 1px solid black;
+    padding: 5px 8px;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top: 30px;
+
+}
+
+.fa-spotify:hover {
+    background-color: #1db954;
+    color: white;
+}
+.fa-facebook-f:hover {
+    color: white;
+    background-color: #3b5998;
+}
+.fa-twitter:hover{
+    color: white;
+    background-color: rgb(29, 161, 242);
+}
+
+.fa-youtube:hover{
+    color: white;
+    background-color: #ff0000;
+}
+
+.fa-instagram:hover{
+    color: white;
+    background-color: #c13584;
+}
+
+.fa-tumblr:hover:hover {
+    color: white;
+    background-color: #34526f;
+}
+
+.pic {
+    display: flex;
+    justify-content: space-around;
+}
+
+.pic2 {
+    margin-top: 20px;
+}
+
+.hr1 {
+    width: 1300px;
+}
+
+.bot {
+    width: 650px;
+}
+
+.bot ul li {
+    margin-left: 30px;
+}
+
+.bot ul {
+    height: 150px;
+}
+
+.links a {
+    margin-bottom: -50px;
+}
+ 
+.person,
+.cookie {
+    margin-bottom: -30px;
+}
+
+
+.little {
+    width: 25px;
+    height: 25px;
+    margin-top: 10px;
+    position: absolute;
+}
+
+.bot2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.copyright {
+    margin-left: 30px;
+}
+
+
+
+
